@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1b38c69-dd8f-4735-b7be-b0d20f872587" name="Default Changelist" comment="" />
+    <list default="true" id="c1b38c69-dd8f-4735-b7be-b0d20f872587" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Migrations.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Migrations.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/truffle-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vapp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vapp/src/TutorialToken.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vapp/src/drizzleOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/src/drizzleOptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vapp/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-manager-in-web3-and-truffle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../item-manager-in-web3-and-truffle/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1rKS8ctJul310Rka4SaLcoGoicl" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="1" id="Remove" />
   </component>
@@ -23,8 +40,25 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/contracts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="erc20-web3.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/erc20-sale/vapp/src/erc20-web3.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.erc20-web3.vue" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618723129249</updated>
-      <workItem from="1618723130432" duration="1281000" />
+      <workItem from="1618723130432" duration="59169000" />
     </task>
     <servers />
   </component>

@@ -1,14 +1,14 @@
-// import SimpleStorage from './contracts/SimpleStorage.json'
+import MyErc20 from './contracts/MyErc20.json'
 
 const options = {
   web3: {
     block: false,
     fallback: {
       type: 'ws',
-      url: 'ws://127.0.0.1:8545'
+      url: 'ws://127.0.0.1:9545'
     }
   },
-  // contracts: [SimpleStorage, ComplexStorage, TutorialToken],
+  contracts: [MyErc20],
   // events: {
   //   SimpleStorage: ['StorageSet']
   // },

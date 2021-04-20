@@ -1,24 +1,26 @@
 <template>
   <div v-if="isDrizzleInitialized">
     <drizzle-contract
-      contractName="TutorialToken"
+      contractName="MyErc20"
       method="totalSupply"
       label="Total"
     />
     <drizzle-contract
-      contractName="TutorialToken"
+      contractName="MyErc20"
       method="symbol"
       label="Symbol"
     />
+
+    <input type="text" v-model="contractAddress"/>
     <drizzle-contract
-      contractName="TutorialToken"
+      contractName="MyErc20"
       method="balanceOf"
       label="Your Balance"
-      :methodArgs="accounts"
+      :methodArgs="[contractAddress]"
     />
 
     <drizzle-contract-form
-      contractName="TutorialToken"
+      contractName="MyErc20"
       method="transfer"
       :placeholders="placeholders"
     />
@@ -31,7 +33,11 @@
 import { mapGetters } from 'vuex'
 
 export default {
-  name: 'TutorialToken',
+  data() {
+    return {
+      contractAddress: null,
+    }
+  },
   computed: {
     ...mapGetters('accounts', ['activeAccount', 'activeBalance']),
     ...mapGetters('drizzle', ['isDrizzleInitialized']),
@@ -43,6 +49,9 @@ export default {
     placeholders() {
       return ['To Address', 'Amount to Send']
     }
+  },
+  created() {
+    this.contractAddress = this.activeAccount
   }
 }
 </script>

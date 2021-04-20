@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="592c7082-b897-4062-a4ae-af33129ed074" name="Default Changelist" comment="" />
+    <list default="true" id="592c7082-b897-4062-a4ae-af33129ed074" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/contracts/Migrations.sol" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/contracts/Migrations.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/migrations/2_deploy_contracts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/migrations/2_deploy_contracts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/truffle-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/vapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/vapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/vapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/vapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/vapp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/vapp/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/vapp/src/TutorialToken.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/vapp/src/drizzleOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/vapp/src/drizzleOptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/vapp/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/vapp/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1rFA3rZ9lMaPzrd5vMnJUqhJ4cy" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="1" id="Remove" />
   </component>
@@ -28,7 +45,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -49,6 +66,11 @@
       <workItem from="1618581431968" duration="42943000" />
       <workItem from="1618722887673" duration="25000" />
       <workItem from="1618723290859" duration="666000" />
+      <workItem from="1618763264928" duration="841000" />
+      <workItem from="1618806026851" duration="750000" />
+      <workItem from="1618807739804" duration="417000" />
+      <workItem from="1618808798377" duration="981000" />
+      <workItem from="1618899600978" duration="2159000" />
     </task>
     <servers />
   </component>

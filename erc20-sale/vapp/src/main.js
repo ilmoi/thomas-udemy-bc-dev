@@ -2,9 +2,6 @@ import Vue from 'vue'
 import App from './App.vue'
 import Vuex from 'vuex'
 
-// Todo: Update this when publishing
-// import drizzleVuePlugin from '@drizzle/vue-plugin'
-//
 import drizzleVuePlugin from '@drizzle/vue-plugin'
 import drizzleOptions from './drizzleOptions'
 

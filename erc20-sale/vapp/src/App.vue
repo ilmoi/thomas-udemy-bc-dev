@@ -2,11 +2,7 @@
   <div v-if="isDrizzleInitialized" id="app">
     <img alt="Vue logo" src="./assets/logo.png"/>
 
-    <div class="section">
-      <h2>Show the Accounts</h2>
-      <drizzle-account units="Ether" :precision="2"/>
-    </div>
-
+  <Erc20web3/>
 
   </div>
 
@@ -15,11 +11,12 @@
 
 <script>
 import {mapGetters} from 'vuex'
+import Erc20web3 from "@/erc20-web3";
 
 export default {
-  name: 'app',
-  components: {},
-
+  components: {
+    Erc20web3,
+  },
   computed: mapGetters('drizzle', ['isDrizzleInitialized'])
 }
 </script>

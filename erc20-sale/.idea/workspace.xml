@@ -3,18 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1b38c69-dd8f-4735-b7be-b0d20f872587" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/Migrations.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Migrations.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/truffle-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vapp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vapp/src/TutorialToken.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vapp/src/drizzleOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/src/drizzleOptions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vapp/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vapp/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../item-manager-in-web3-and-truffle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../item-manager-in-web3-and-truffle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../truffle-vue-plugin-1st-time/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../truffle-vue-plugin-1st-time/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +58,12 @@
       <option name="presentableId" value="Default" />
       <updated>1618723129249</updated>
       <workItem from="1618723130432" duration="59169000" />
+      <workItem from="1619166888877" duration="1246000" />
+      <workItem from="1619252573153" duration="637000" />
+      <workItem from="1619254614795" duration="684000" />
+      <workItem from="1619257787149" duration="12000" />
+      <workItem from="1619257803851" duration="758000" />
+      <workItem from="1619511544334" duration="674000" />
     </task>
     <servers />
   </component>

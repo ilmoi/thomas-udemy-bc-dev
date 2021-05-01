@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="592c7082-b897-4062-a4ae-af33129ed074" name="Default Changelist" comment="" />
+    <list default="true" id="592c7082-b897-4062-a4ae-af33129ed074" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../erc20-sale/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erc20-sale/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1rFA3rZ9lMaPzrd5vMnJUqhJ4cy" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="1" id="Remove" />
   </component>
@@ -42,6 +48,14 @@
       <workItem from="1618656735828" duration="1873000" />
       <workItem from="1618678542714" duration="714000" />
       <workItem from="1618722894626" duration="15000" />
+      <workItem from="1619014215431" duration="223000" />
+      <workItem from="1619075689167" duration="738000" />
+      <workItem from="1619351562916" duration="781000" />
+      <workItem from="1619501944829" duration="1017000" />
+      <workItem from="1619504210507" duration="462000" />
+      <workItem from="1619506478302" duration="654000" />
+      <workItem from="1619507377734" duration="372000" />
+      <workItem from="1619509185665" duration="784000" />
     </task>
     <servers />
   </component>
